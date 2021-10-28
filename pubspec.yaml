@@ -1,7 +1,7 @@
 name: get_net
-description: A new Flutter package project.
+description: Project to use payments in flutter using getnet.
 version: 1.0.0
-homepage:
+homepage: https://github.com/marcosradix/get_net
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
