@@ -44,3 +44,6 @@ This interceptor will put the token saved in login in your request.
 ```
  options.headers["Authorization"] = "Bearer $accessToken";
 ```
+# How to use it
+In this video I will show you hoe to use this lib(language brazilian portuguese)
+link: https://youtu.be/l3vLa9l7Wsc
